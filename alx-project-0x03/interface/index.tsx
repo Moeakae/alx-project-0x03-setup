@@ -3,3 +3,6 @@ export interface ButtonProps {
   buttonLabel: string;
   buttonBackgroundColor?: string; // optional
 }
+interface LayoutProps {
+  children: ReactNode;
+}
