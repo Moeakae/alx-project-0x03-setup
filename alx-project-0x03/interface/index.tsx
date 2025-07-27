@@ -6,5 +6,5 @@ export interface ButtonProps {
   buttonSize: string;
 }
 interface LayoutProps {
-  children: ReactNode;
+  children: string;
 }
