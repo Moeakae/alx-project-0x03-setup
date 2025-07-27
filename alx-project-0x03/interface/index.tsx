@@ -8,3 +8,6 @@ export interface ButtonProps {
 interface LayoutProps {
   children: string;
 }
+interface PageRouteProps {
+  pageRoutr: string;
+}
